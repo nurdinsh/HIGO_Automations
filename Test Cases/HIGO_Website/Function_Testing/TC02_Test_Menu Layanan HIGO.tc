@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Test_Menu Layanan HIGO</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fefa9d2b-bb9a-48e0-8304-4cb34d83838a</testCaseGuid>
+</TestCaseEntity>

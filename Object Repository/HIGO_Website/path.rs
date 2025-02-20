@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>6691fa21-bcb6-45ff-a4ad-fbe6e5021741</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;HIGO&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>a03ccf9a-5ee2-49a0-9a38-64676d43e6df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M1803.74 1.068c-219.906 9.98-382.063 133.528-419.255 319.432-5.814 29.062-6.956 41.942-6.96 78.5-.003 34.728.897 45.647 6.099 74 20.854 113.675 90.354 210.963 191.777 268.455 75.003 42.516 164.924 62.536 262.929 58.537 78.367-3.197 140.216-17.16 202.42-45.697l14.25-6.537v-60.379c0-33.209-.256-60.379-.57-60.379-.313 0-4.25 2.871-8.75 6.38-44.225 34.495-101.94 56.041-169.18 63.161-17.905 1.896-57.368 2.16-75.5.505-87.589-7.993-162.424-40.349-215.06-92.986-41.863-41.862-68.723-95.729-77.818-156.06-9.893-65.626-1.579-127.065 24.291-179.5 13.905-28.186 29.432-49.429 52.352-71.626 51.424-49.802 122.403-80.418 208.735-90.037 16.049-1.788 78.104-1.817 92.5-.043 70.945 8.741 127.491 31.382 176 70.469 18.763 15.119 42.119 39.844 53.264 56.387 2.33 3.458 4.855 6.301 5.612 6.318 1.478.034 115.294-36.872 116.116-37.652.856-.812-7.18-15.202-16.055-28.747-11.827-18.051-22.961-31.637-39.414-48.097C2107.986 51.909 1992.888 7.363 1860 1.035c-23.456-1.117-31.022-1.113-56.26.033M2812 3.048c-74.764 5.705-139.857 22.645-199.5 51.918-41.433 20.335-73.885 42.909-104.55 72.729-66.153 64.325-103.05 146.277-111.018 246.577-1.776 22.356-.717 72.943 1.956 93.43 9.635 73.863 33.543 131.899 76.535 185.784 11.022 13.814 36.543 39.088 51.678 51.176 82.467 65.866 197.73 100.334 335.538 100.337 147.501.004 268.786-42.342 351.413-122.694 60.413-58.75 96.713-132.921 107.434-219.516.833-6.726 1.625-14.268 1.76-16.759.135-2.492.474 72.195.754 165.97.308 103.143.509 19.39.508-212 0-246.968-.18-317.834-.508-200-.279 100.375-.619 180.247-.754 177.494-.389-7.921-3.099-29.89-5.304-42.994C3295.254 199.626 3206.476 94.847 3069 40.69c-47.36-18.657-95.417-30.082-152.5-36.256-17.479-1.89-85.984-2.799-104.5-1.386M1 401v382h126V422h552v361h127V19H678v311H126V19H1v382m1048 0v382h127V19h-127v382m1774.5-288.881c-107.673 7.486-195.908 49.654-247.06 118.072-32.618 43.627-50.303 95.977-53.372 157.987-7.679 155.182 78.664 263.356 236.432 296.208 57.756 12.027 131.48 13.389 190.5 3.52 38.127-6.376 70.081-16.497 100.504-31.834 52.252-26.341 89.722-63.562 114.89-114.127 13.987-28.101 22.316-55.352 27.643-90.445 2.671-17.594 3.79-59.022 2.08-77-6.557-68.946-35.114-130.273-81.747-175.555-53.507-51.958-128.201-81.022-223.37-86.914-18.905-1.171-48.972-1.131-66.5.088m-989.831 285.545c-.368.368-.669 21.069-.669 46.003V489h312v312.02l45.75-.26 45.75-.26v-403l-201.081-.252c-110.594-.139-201.382.048-201.75.416</value>
+      <webElementGuid>884cef83-c015-43c0-ae44-85dfe6d72ec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>55009e6f-2b9b-467b-a042-98bdf87316f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>23dddbb6-55fb-455b-9b81-b7220ab6553c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__variable_7be8ac __variable_bf78da font-inter font-light&quot;]/header[@class=&quot;grid grid-flow-col fixed inset-x-0 top-7 z-top grid-container&quot;]/div[@class=&quot;relative text-white @container/header grid-content&quot;]/div[@class=&quot;grid grid-cols-r-fill items-center rounded-3xl bg-primary px-7 @2xl/header:px-10&quot;]/a[@class=&quot;relative z-20&quot;]/svg[@class=&quot;text-white&quot;]/path[1]</value>
+      <webElementGuid>f2b7776e-4ed6-433d-9376-52fc4e38a576</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

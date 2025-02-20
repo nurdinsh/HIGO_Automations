@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menu Lifestyle</description>
+   <name>TC03_Test_Menu Lifestyle</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1a3994df-3f5a-46ca-aaba-0540df26ab64</testCaseGuid>
+</TestCaseEntity>

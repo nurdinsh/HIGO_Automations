@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC04_Test_Menu Digital Reports</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ae71b2f-10b5-454a-a4f5-a325efed2bd4</testCaseGuid>
+</TestCaseEntity>

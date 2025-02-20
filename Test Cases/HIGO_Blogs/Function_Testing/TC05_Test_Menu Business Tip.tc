@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menu Business Tip</description>
+   <name>TC05_Test_Menu Business Tip</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0e6186bc-7c4f-4a63-81a9-86c488d85673</testCaseGuid>
+</TestCaseEntity>

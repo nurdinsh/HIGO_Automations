@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bt_Lifestyle</name>
+   <tag></tag>
+   <elementGuidId>a3603196-5167-49eb-b5d1-ce5b7491f804</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.line-clamp-1.w-full.rounded-full.px-2.py-1.text-sm.bg-primary.text-white</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Hangout'])[1]/following::button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Lifestyle&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9bc35c52-3b3e-4a4b-9e0a-03a2f1dc3e07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>line-clamp-1 w-full rounded-full px-2 py-1 text-sm bg-primary text-white</value>
+      <webElementGuid>87e604ef-c88c-4a15-b388-6228879fee6f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lifestyle</value>
+      <webElementGuid>fafb1483-dbff-4457-b183-57c203e67c90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__variable_7be8ac __variable_d5b9e1 font-inter font-light&quot;]/main[@class=&quot;gap-y-6 @container/page grid-container&quot;]/div[@class=&quot;grid min-h-screen grid-cols-1 content-start pb-8 pt-safearea grid-content&quot;]/div[@class=&quot;mt-6 grid content-start gap-6 @3xl/page:grid-cols-2 @5xl/page:grid-cols-l-fill&quot;]/section[@class=&quot;grid content-start gap-4 @container/section&quot;]/header[@class=&quot;sticky top-20 z-50 -mb-2 grid grid-flow-row gap-2 bg-white py-2&quot;]/div[@class=&quot;relative overflow-clip rounded-full bg-blue-50 py-1.5 @container/segment&quot;]/div[@class=&quot;overflow-hidden&quot;]/div[@class=&quot;flex -ml-4 rounded-full @2xl/segment:ml-0 @2xl/segment:w-full @2xl/segment:justify-between @2xl/segment:gap-2 @3xl/segment:!translate-x-0&quot;]/div[@class=&quot;min-w-0 shrink-0 grow-0 pl-4 basis-auto&quot;]/button[@class=&quot;line-clamp-1 w-full rounded-full px-2 py-1 text-sm bg-primary text-white&quot;]</value>
+      <webElementGuid>249c8fd3-8515-4002-a50c-9859710848e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hangout'])[1]/following::button[1]</value>
+      <webElementGuid>faedd2c0-1ca4-472d-96a7-0669fce40c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGOes Update'])[3]/following::button[2]</value>
+      <webElementGuid>8c630f65-8ad9-4ca3-8d62-667c39ec9e73</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tech &amp; Social Media'])[2]/preceding::button[1]</value>
+      <webElementGuid>9c27a6a7-3bf3-4f04-8cc8-6837abd43cef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Tip'])[2]/preceding::button[2]</value>
+      <webElementGuid>aa2fc3ea-660a-48f9-a542-3fe1f23868c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lifestyle']/parent::*</value>
+      <webElementGuid>ec40ba14-d3eb-401e-a8b8-0d89ed670273</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>d8586eff-408f-43ab-888a-d3545ae0c6c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Lifestyle' or . = 'Lifestyle')]</value>
+      <webElementGuid>307b5242-ffb2-45a2-b79a-1192dd5f98c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_Test_Menu Hubungi HIGO</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>110a65c7-4416-4189-9053-6727776e37ac</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d37b154-07a5-4c6c-af34-0f7e9641fa75</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'WiFi Advertising'</defaultValue>
+      <description></description>
+      <id>0d37b154-07a5-4c6c-af34-0f7e9641fa75</id>
+      <masked>false</masked>
+      <name>Layanan</name>
+   </variable>
+</TestCaseEntity>

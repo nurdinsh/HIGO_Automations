@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Test_Menu HIGOesUpdate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b6e68405-1889-4611-8b62-94969d3f4046</testCaseGuid>
+</TestCaseEntity>

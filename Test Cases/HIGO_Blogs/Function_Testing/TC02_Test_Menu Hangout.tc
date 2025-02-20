@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hangout</description>
+   <name>TC02_Test_Menu Hangout</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3fd1612e-e337-4923-9ef5-5f0d78c60bc0</testCaseGuid>
+</TestCaseEntity>

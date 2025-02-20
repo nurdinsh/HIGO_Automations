@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Interaksi</name>
+   <tag></tag>
+   <elementGuidId>661d6df2-093d-4351-8cb1-698f479279e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Ads berupa gambar statis selama 3 detik.'])[1]/following::h6[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Interaksi&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>1204c83f-22ac-4877-bf0a-e4b7dd3185bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center text-lg font-bold text-primary transition-all duration-300 @3xl/page:absolute @3xl/page:bottom-0 @3xl/page:left-1/2 @3xl/page:w-max @3xl/page:-translate-x-1/2 @3xl/page:text-xl @3xl/page:text-black @3xl/page:group-hover/card:bottom-full @3xl/page:group-hover/card:text-primary</value>
+      <webElementGuid>79d885cb-ce24-4439-8fc0-2660a8dd505e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Interaksi</value>
+      <webElementGuid>a7210982-c3a6-4e2c-8f53-e0f3f5496b81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__variable_7be8ac __variable_bf78da font-inter font-light&quot;]/main[@class=&quot;gap-y-6 @container/page grid-container&quot;]/section[@class=&quot;grid @container/section grid-full relative&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;grid @container/section-content grid-full @3xl/section:grid-content&quot;]/div[@class=&quot;relative grid&quot;]/div[@class=&quot;overflow-hidden&quot;]/div[@class=&quot;flex -ml-4 @3xl/page:!translate-x-0&quot;]/div[@class=&quot;min-w-0 shrink-0 grow-0 pl-4 basis-full @3xl/page:basis-1/4&quot;]/article[@class=&quot;group/card grid h-full cursor-pointer grid-rows-t-fill content-start gap-y-5 p-4 @3xl/page:p-0&quot;]/header[@class=&quot;relative mt-14 self-end&quot;]/h6[@class=&quot;text-center text-lg font-bold text-primary transition-all duration-300 @3xl/page:absolute @3xl/page:bottom-0 @3xl/page:left-1/2 @3xl/page:w-max @3xl/page:-translate-x-1/2 @3xl/page:text-xl @3xl/page:text-black @3xl/page:group-hover/card:bottom-full @3xl/page:group-hover/card:text-primary&quot;]</value>
+      <webElementGuid>f26ae934-442c-4f30-a85a-18274b3dbeb4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ads berupa gambar statis selama 3 detik.'])[1]/following::h6[1]</value>
+      <webElementGuid>5c988632-1841-428c-8886-0c4630f342e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Penayangan'])[1]/following::h6[1]</value>
+      <webElementGuid>6ef6e48b-4d3c-43c5-ad86-0098299234ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menampilkan ads interaktif berupa game, video, ataupun survey.'])[1]/preceding::h6[1]</value>
+      <webElementGuid>8b95422a-2b36-42d3-8bbf-b5c06f7163f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Respons langsung'])[1]/preceding::h6[1]</value>
+      <webElementGuid>1258293b-5637-4912-bdb4-0be3e06e07f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Interaksi']/parent::*</value>
+      <webElementGuid>cd0a8b50-e190-43a8-af6c-564ae4b340c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/article/header/h6</value>
+      <webElementGuid>089c64c6-35fa-43ca-a940-94d1699835f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Interaksi' or . = 'Interaksi')]</value>
+      <webElementGuid>ec5a19f7-13da-4300-b57d-bb0e5ff5928b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

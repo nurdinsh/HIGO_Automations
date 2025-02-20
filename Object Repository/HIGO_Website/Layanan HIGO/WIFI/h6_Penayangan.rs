@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Penayangan</name>
+   <tag></tag>
+   <elementGuidId>6bdd2c20-aae1-4978-ba56-69345f264c29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembuatan profil'])[1]/following::h6[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Penayangan&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>bf81d80f-a1fc-4406-bfa0-e87fedfe2a77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center text-lg font-bold text-primary transition-all duration-300 @3xl/page:absolute @3xl/page:bottom-0 @3xl/page:left-1/2 @3xl/page:w-max @3xl/page:-translate-x-1/2 @3xl/page:text-xl @3xl/page:text-black @3xl/page:group-hover/card:bottom-full @3xl/page:group-hover/card:text-primary</value>
+      <webElementGuid>c149cd31-f07b-4df5-8bf3-d5ee93f7bab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Penayangan</value>
+      <webElementGuid>ca84da69-bd3e-4c61-bf09-959a007f0406</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__variable_7be8ac __variable_bf78da font-inter font-light&quot;]/main[@class=&quot;gap-y-6 @container/page grid-container&quot;]/section[@class=&quot;grid @container/section grid-full relative&quot;]/div[@class=&quot;grid-container&quot;]/div[@class=&quot;grid @container/section-content grid-full @3xl/section:grid-content&quot;]/div[@class=&quot;relative grid&quot;]/div[@class=&quot;overflow-hidden&quot;]/div[@class=&quot;flex -ml-4 @3xl/page:!translate-x-0&quot;]/div[@class=&quot;min-w-0 shrink-0 grow-0 pl-4 basis-full @3xl/page:basis-1/4&quot;]/article[@class=&quot;group/card grid h-full cursor-pointer grid-rows-t-fill content-start gap-y-5 p-4 @3xl/page:p-0&quot;]/header[@class=&quot;relative mt-14 self-end&quot;]/h6[@class=&quot;text-center text-lg font-bold text-primary transition-all duration-300 @3xl/page:absolute @3xl/page:bottom-0 @3xl/page:left-1/2 @3xl/page:w-max @3xl/page:-translate-x-1/2 @3xl/page:text-xl @3xl/page:text-black @3xl/page:group-hover/card:bottom-full @3xl/page:group-hover/card:text-primary&quot;]</value>
+      <webElementGuid>a3eabef6-e8f8-4998-9dc2-5b0152aae1d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pembuatan profil'])[1]/following::h6[1]</value>
+      <webElementGuid>ac2858ef-dc58-42c9-8808-d976a37b80ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kenali pengguna melalui 4 langkah pendekatan yang lebih personal'])[1]/following::h6[2]</value>
+      <webElementGuid>41a7d8f1-7c13-4690-b64d-2e8d88d1a472</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ads berupa gambar statis selama 3 detik.'])[1]/preceding::h6[1]</value>
+      <webElementGuid>7f7856a5-0012-406e-952b-286b8a34b0d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Interaksi'])[1]/preceding::h6[1]</value>
+      <webElementGuid>ee93404d-927f-4f58-98ab-6414777c3b4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Penayangan']/parent::*</value>
+      <webElementGuid>bdd59ac8-2366-4ea4-8e99-322cd77a30b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/article/header/h6</value>
+      <webElementGuid>14cfb81a-7e17-4263-a3fe-3773c677cae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Penayangan' or . = 'Penayangan')]</value>
+      <webElementGuid>6683ae5e-614f-42fe-a950-ac832b37a421</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

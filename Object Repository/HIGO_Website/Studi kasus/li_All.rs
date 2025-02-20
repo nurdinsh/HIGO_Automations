@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_All</name>
+   <tag></tag>
+   <elementGuidId>f7fc6c69-5a1d-42f6-b02e-98e0ea06489f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Berbagi cerita dari kolaborasi HIGO'])[1]/following::li[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;All&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>36752f3d-00b4-428d-858c-a10ba942ed27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-fit cursor-pointer rounded-full px-3 py-0.5 text-sm @3xl/page:text-lg bg-primary text-white</value>
+      <webElementGuid>029c8adc-4d8b-4a8d-bc5d-e1dd6a2ffb35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All</value>
+      <webElementGuid>ef522a17-c94e-4c9e-a8c2-f20a90f25172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__variable_7be8ac __variable_bf78da font-inter font-light&quot;]/main[@class=&quot;gap-y-6 @container/page grid-container&quot;]/section[@class=&quot;grid gap-6 @container/section grid-content z-10 -mt-32 mb-20&quot;]/ul[@class=&quot;flex w-fit flex-row gap-x-4 place-self-center rounded-full bg-white p-1.5&quot;]/li[@class=&quot;w-fit cursor-pointer rounded-full px-3 py-0.5 text-sm @3xl/page:text-lg bg-primary text-white&quot;]</value>
+      <webElementGuid>36f8d9c0-8687-4211-80a8-ff015c679a5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berbagi cerita dari kolaborasi HIGO'])[1]/following::li[1]</value>
+      <webElementGuid>80c08bf4-7d24-4051-8300-37623f55c262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[2]/following::li[1]</value>
+      <webElementGuid>edf06704-ecca-4779-a991-6ccb1e90344d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIGOspot'])[3]/preceding::li[1]</value>
+      <webElementGuid>726b33bf-15a3-42a7-a666-ada6c015c31c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WiFi Advertising'])[3]/preceding::li[2]</value>
+      <webElementGuid>8efee5c1-2be3-4ae2-bd98-a3dfa35b7a58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All']/parent::*</value>
+      <webElementGuid>69cc6e71-e676-49d4-8b8e-f2f81584148c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/ul/li</value>
+      <webElementGuid>c2a5d985-3aa9-4e8e-bfc4-8eb9131e1782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'All' or . = 'All')]</value>
+      <webElementGuid>8563d6b8-1444-44f2-8b6c-ac4e3062afdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
